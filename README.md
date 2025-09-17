@@ -1,6 +1,6 @@
 # Disease Prediction from Gene Expression (RNA-seq)
 
-This project predicts cancer types from bulk RNA-seq gene expression data, inspired by the [BulkRNABert study](https://www.biorxiv.org/content/10.1101/2024.06.18.599483v4.full).  
+This project predicts cancer types from bulk RNA-seq gene expression data, inspired by the [BulkRNABert study].  
 Unlike the full multi-omics approach, this version focuses only on **RNA-seq gene expression** for a smaller set of cohorts, making the project more lightweight and accessible.
 
 ---
